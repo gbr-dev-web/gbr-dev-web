@@ -2,8 +2,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsil20177@gmail.com)
 
-![Reaper GitHub stats](https://github-readme-stats.vercel.app/api?username=ReaperSZ1&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperSZ1&layout=compact&theme=github_dark)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gbr-dev-web&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-dev-web&layout=compact&theme=github_dark)
 
 📚 **Aprendendo Desenvolvimento Web há mais de 1 ano.**
 
