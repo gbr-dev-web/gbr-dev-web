@@ -3,10 +3,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsil20177@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-042900279)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gbr-dev-web&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-dev-web&layout=compact&theme=github_dark)
-
 📚 **Aprendendo Desenvolvimento Web há mais de 1 ano.**
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gbr-dev-web&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="gabriel Martins GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-dev-web&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+</div>
+
 
 ---
 
@@ -21,3 +24,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+
