@@ -23,6 +23,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
+### **Projeto:**
+
+**[Spyx](https://spyx.app.br)**: extensão do Google Chrome que transforma a Biblioteca de Anúncios da Meta numa ferramenta de mineração de ofertas. O Raio-X destaca os anúncios do Facebook e do Instagram que estão escalando, com filtros por dias no ar e número de anúncios, download do criativo e Modelar oferta. Grátis na [Chrome Web Store](https://chromewebstore.google.com/detail/spyx/oebaapciepihagbdpgdghaoemalkoepm).
+
 ### **Contatos:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsil20177@gmail.com)
